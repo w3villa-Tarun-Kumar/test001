@@ -1,1 +1,5 @@
-hi this is my first php file
+<?php
+
+echo "hi tarun this is my first php file";
+
+?>
